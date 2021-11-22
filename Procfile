@@ -1,1 +1,1 @@
-web: gunicorn api-phonetics.wsgi
+web gunicorn api-phonetics.wsgi
